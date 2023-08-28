@@ -1,5 +1,6 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+import Button from './components/Button';
 
 function App() {
   return (
@@ -20,7 +21,12 @@ function App() {
         <li>HTML/CSS</li>
         <li>Node.js</li>
       </ul>
+
+      <Button label="Log in"/>
+      <Button label="Sign in"/>
+
     </div>
+  
   );
 }
 

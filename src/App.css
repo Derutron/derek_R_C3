@@ -41,3 +41,12 @@ ul {
   list-style: none;
 }
 
+Button{
+  color: rgb(0, 0, 0);
+  background-color: rgb(202, 198, 163);
+  width: 100px;
+  height: 50px;
+  border-radius: 20px;
+  font-size: 20px;
+  margin: 10px;
+}
